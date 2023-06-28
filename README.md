@@ -1,0 +1,1 @@
+This is a basic HTML recipe page from the Odin foundation path.
