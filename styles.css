@@ -1,0 +1,31 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+    font-size: 25px;
+    letter-spacing: 1px;    
+}
+
+.landing-img {
+    width: 80%;
+    border: 10px;
+    mix-blend-mode: multiply;
+}
+
+.btngroup {
+
+}
+
+.btn {
+    margin: 20px;
+    width: 100%;
+}
